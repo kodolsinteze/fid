@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://www.epakalpojumi.lv/odata/service" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>http://schemas.datacontract.org/2004/07/</id>
+  <title />
+  <updated>2023-09-16T10:47:44Z</updated>
+  <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts" />
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(0)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(0)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(0)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">0</d:id>
+        <d:district_atvk>0000000</d:district_atvk>
+        <d:district_name>Visi</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(516)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(516)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(516)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">516</d:id>
+        <d:district_atvk>0001000</d:district_atvk>
+        <d:district_name>Rīga</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(517)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(517)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(517)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">517</d:id>
+        <d:district_atvk>0003000</d:district_atvk>
+        <d:district_name>Jelgava</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(518)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(518)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(518)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">518</d:id>
+        <d:district_atvk>0005000</d:district_atvk>
+        <d:district_name>Liepāja</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(520)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(520)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(520)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">520</d:id>
+        <d:district_atvk>0021000</d:district_atvk>
+        <d:district_name>Alūksnes novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(552)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(552)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(552)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">552</d:id>
+        <d:district_atvk>0006000</d:district_atvk>
+        <d:district_name>Rēzekne</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(553)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(553)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(553)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">553</d:id>
+        <d:district_atvk>0031010</d:district_atvk>
+        <d:district_name>Jēkabpils</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(557)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(557)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(557)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">557</d:id>
+        <d:district_atvk>0054010</d:district_atvk>
+        <d:district_name>Valmiera</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(558)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(558)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(558)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">558</d:id>
+        <d:district_atvk>0004000</d:district_atvk>
+        <d:district_name>Jūrmala</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(564)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(564)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(564)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">564</d:id>
+        <d:district_atvk>0041000</d:district_atvk>
+        <d:district_name>Olaines novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(568)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(568)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(568)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">568</d:id>
+        <d:district_atvk>0002000</d:district_atvk>
+        <d:district_name>Daugavpils</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(571)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(571)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(571)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">571</d:id>
+        <d:district_atvk>0029000</d:district_atvk>
+        <d:district_name>Gulbenes novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(579)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(579)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(579)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">579</d:id>
+        <d:district_atvk>0007000</d:district_atvk>
+        <d:district_name>Ventspils</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(584)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(584)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(584)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">584</d:id>
+        <d:district_atvk>0055000</d:district_atvk>
+        <d:district_name>Varakļānu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(585)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(585)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(585)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">585</d:id>
+        <d:district_atvk>0056000</d:district_atvk>
+        <d:district_name>Ventspils novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(590)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(590)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(590)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">590</d:id>
+        <d:district_atvk>0045000</d:district_atvk>
+        <d:district_name>Salaspils novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(591)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(591)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(591)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">591</d:id>
+        <d:district_atvk>0053000</d:district_atvk>
+        <d:district_name>Valkas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(592)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(592)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(592)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">592</d:id>
+        <d:district_atvk>0036000</d:district_atvk>
+        <d:district_name>Līvānu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(630)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(630)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(630)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">630</d:id>
+        <d:district_atvk>0020000</d:district_atvk>
+        <d:district_name>Aizkraukles novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(635)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(635)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(635)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">635</d:id>
+        <d:district_atvk>0022000</d:district_atvk>
+        <d:district_name>Augšdaugavas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(640)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(640)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(640)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">640</d:id>
+        <d:district_atvk>0023000</d:district_atvk>
+        <d:district_name>Ādažu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(645)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(645)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(645)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">645</d:id>
+        <d:district_atvk>0024000</d:district_atvk>
+        <d:district_name>Balvu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(650)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(650)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(650)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">650</d:id>
+        <d:district_atvk>0025000</d:district_atvk>
+        <d:district_name>Bauskas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(655)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(655)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(655)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">655</d:id>
+        <d:district_atvk>0026000</d:district_atvk>
+        <d:district_name>Cēsu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(660)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(660)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(660)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">660</d:id>
+        <d:district_atvk>0027000</d:district_atvk>
+        <d:district_name>Dienvidkurzemes novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(665)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(665)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(665)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">665</d:id>
+        <d:district_atvk>0028000</d:district_atvk>
+        <d:district_name>Dobeles novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(670)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(670)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(670)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">670</d:id>
+        <d:district_atvk>0030000</d:district_atvk>
+        <d:district_name>Jelgavas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(675)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(675)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(675)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">675</d:id>
+        <d:district_atvk>0031000</d:district_atvk>
+        <d:district_name>Jēkabpils novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(680)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(680)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(680)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">680</d:id>
+        <d:district_atvk>0032000</d:district_atvk>
+        <d:district_name>Krāslavas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(685)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(685)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(685)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">685</d:id>
+        <d:district_atvk>0033000</d:district_atvk>
+        <d:district_name>Kuldīgas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(690)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(690)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(690)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">690</d:id>
+        <d:district_atvk>0034000</d:district_atvk>
+        <d:district_name>Ķekavas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(695)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(695)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(695)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">695</d:id>
+        <d:district_atvk>0035000</d:district_atvk>
+        <d:district_name>Limbažu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(700)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(700)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(700)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">700</d:id>
+        <d:district_atvk>0037000</d:district_atvk>
+        <d:district_name>Ludzas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(705)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(705)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(705)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">705</d:id>
+        <d:district_atvk>0038000</d:district_atvk>
+        <d:district_name>Madonas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(710)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(710)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(710)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">710</d:id>
+        <d:district_atvk>0039000</d:district_atvk>
+        <d:district_name>Mārupes novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(715)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(715)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(715)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">715</d:id>
+        <d:district_atvk>0040000</d:district_atvk>
+        <d:district_name>Ogres novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(720)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(720)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(720)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">720</d:id>
+        <d:district_atvk>0042000</d:district_atvk>
+        <d:district_name>Preiļu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(725)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(725)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(725)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">725</d:id>
+        <d:district_atvk>0043000</d:district_atvk>
+        <d:district_name>Rēzeknes novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(730)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(730)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(730)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">730</d:id>
+        <d:district_atvk>0044000</d:district_atvk>
+        <d:district_name>Ropažu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(735)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(735)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(735)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">735</d:id>
+        <d:district_atvk>0046000</d:district_atvk>
+        <d:district_name>Saldus novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(740)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(740)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(740)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">740</d:id>
+        <d:district_atvk>0047000</d:district_atvk>
+        <d:district_name>Saulkrastu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(745)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(745)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(745)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">745</d:id>
+        <d:district_atvk>0048000</d:district_atvk>
+        <d:district_name>Siguldas novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(750)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(750)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(750)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">750</d:id>
+        <d:district_atvk>0049000</d:district_atvk>
+        <d:district_name>Smiltenes novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(755)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(755)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(755)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">755</d:id>
+        <d:district_atvk>0051000</d:district_atvk>
+        <d:district_name>Talsu novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(760)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(760)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(760)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">760</d:id>
+        <d:district_atvk>0052000</d:district_atvk>
+        <d:district_name>Tukuma novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(765)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(765)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(765)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">765</d:id>
+        <d:district_atvk>0054000</d:district_atvk>
+        <d:district_name>Valmieras novads</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(802)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(802)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(802)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">802</d:id>
+        <d:district_atvk>0044200</d:district_atvk>
+        <d:district_name>Vangaži</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.epakalpojumi.lv/odata/service/Districts(5200)</id>
+    <category term="OpenData.Entities.District" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" href="https://www.epakalpojumi.lv/odata/service/Districts(5200)" />
+    <link rel="self" href="https://www.epakalpojumi.lv/odata/service/Districts(5200)" />
+    <title />
+    <updated>2023-09-16T10:47:44Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:id m:type="Edm.Int32">5200</d:id>
+        <d:district_atvk>-</d:district_atvk>
+        <d:district_name>ZZ_ATR novada pašvaldība</d:district_name>
+      </m:properties>
+    </content>
+  </entry>
+</feed>
